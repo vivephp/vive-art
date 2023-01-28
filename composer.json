@@ -1,0 +1,15 @@
+{
+    "name": "vivephp/art",
+    "description": "🎨 Artwork by Vive.",
+    "keywords": ["artwork", "vive"],
+    "license": "CC-BY-SA-3.0",
+    "homepage": "https://packagist.org/packages/vivephp",
+    "authors": [
+        {
+            "name": "SIGUI Kessé Emmanuel",
+            "email": "ske@sikessem.com",
+            "homepage": "http://sikessem.com",
+            "role": "Developer"
+        }
+    ]
+}

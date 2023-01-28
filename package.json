@@ -1,0 +1,17 @@
+{
+    "name": "@vivephp/art",
+    "version": "0.0.0",
+    "description": "🎨 Artwork by Vive.",
+    "keywords": ["artwork", "vive"],
+    "license": "CC-BY-SA-3.0",
+    "homepage": "https://www.npmjs.com/org/vivephp",
+    "private": false,
+    "publishConfig": {
+        "access": "public"
+    },
+    "author": {
+        "name": "SIGUI Kessé Emmanuel",
+        "email": "ske@sikessem.com",
+        "url": "http://sikessem.com"
+    }
+}
