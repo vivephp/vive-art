@@ -1,10 +1,10 @@
 {
-    "name": "@vivephp/art",
+    "name": "@siguici/art",
     "version": "0.0.0",
     "description": "🎨 Artwork by Vive.",
-    "keywords": ["artwork", "vive"],
+    "keywords": ["art", "artwork", "sigui", "siguici"],
     "license": "CC-BY-SA-3.0",
-    "homepage": "https://www.npmjs.com/org/vivephp",
+    "homepage": "https://www.npmjs.com/~siguici",
     "private": false,
     "publishConfig": {
         "access": "public"

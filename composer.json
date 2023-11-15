@@ -1,14 +1,14 @@
 {
-    "name": "vivephp/art",
+    "name": "siguici/art",
     "description": "🎨 Artwork by Vive.",
     "keywords": ["artwork", "vive"],
     "license": "CC-BY-SA-3.0",
-    "homepage": "https://packagist.org/packages/vivephp",
+    "homepage": "https://packagist.org/packages/siguici",
     "authors": [
         {
-            "name": "SIGUI Kessé Emmanuel",
-            "email": "ske@sikessem.com",
-            "homepage": "http://sikessem.com",
+            "name": "Sigui Kessé Emmanuel",
+            "email": "contact@sigui.ci",
+            "homepage": "http://sigui.ci",
             "role": "Developer"
         }
     ]
