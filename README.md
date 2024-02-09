@@ -1,11 +1,13 @@
-<div align="center"><a href="https://github.com/siguici/" title="Sigui"><img src="https://github.com/siguici/art/blob/HEAD/images/sigui.svg" alt="Sigui's logo" height="128"/></a></div>
+<div align="center">
+  <a href="https://sigui.deno.dev/" title="Sigui"><img src="https://github.com/siguici/art/blob/HEAD/images/sigui.svg" alt="Sigui's logo" height="64"/></a>
 
----
+# 🎨 Artwork by [Sigui](https://github.com/siguici)
 
-# 🎨 Artwork by Sigui
+Meet [Sigui](https://sigui.deno.dev), a seasoned freelance software developer deeply committed to [the principles of Open-Source](https://github.com/siguici).
 
-[Sigui](https://github.com/siguici) is a full-stack web application developer.
+With a wealth of experience and expertise, [Sigui](https://sigui.deno.dev) proudly shares all of [his innovative projects on GitHub](https://github.com/siguici), contributing to the vibrant community of collaborative development.
 
----
+[Explore a portfolio fueled by passion, expertise, and a dedication to fostering open and accessible software solutions.](https://sigui.deno.dev)
 
-<div align="center"><sub>Made with ❤︎ by <a href="https://twitter.com/siguici">Sigui</a>.</sub></div>
+  <sub>Made with ❤︎ by <a href="https://twitter.com/siguici">@siguici</a>.</sub>
+</div>
