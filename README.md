@@ -1,7 +1,7 @@
 <div align="center">
-  <a href="https://sigui.deno.dev/" title="Sigui"><img src="https://github.com/siguici/art/blob/HEAD/images/sigui.svg" alt="Sigui's logo" height="64"/></a>
+  <a href="https://ske.deno.dev/" title="Sigui"><img src="https://github.com/siguici/art/blob/HEAD/images/ske.svg" alt="The SKE logo" height="64"/></a>
 
-# 🎨 Artwork by [Sigui](https://github.com/siguici)
+# 🎨 Artwork by [Sigui Kessé Emmanuel](https://github.com/siguici)
 
 Meet [Sigui](https://sigui.deno.dev), a seasoned freelance software developer deeply committed to [the principles of Open-Source](https://github.com/siguici).
 

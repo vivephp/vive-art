@@ -1,8 +1,8 @@
 {
     "name": "@siguici/art",
     "version": "0.0.0",
-    "description": "🎨 Artwork by Vive.",
-    "keywords": ["art", "artwork", "sigui", "siguici"],
+    "description": "🎨 Artwork by Sigui Kessé Emmanuel.",
+    "keywords": ["art", "artwork", "sigui", "siguici", "ske", "ske-ci"],
     "license": "CC-BY-SA-3.0",
     "homepage": "https://www.npmjs.com/~siguici",
     "private": false,
@@ -10,8 +10,8 @@
         "access": "public"
     },
     "author": {
-        "name": "SIGUI Kessé Emmanuel",
-        "email": "ske@sikessem.com",
-        "url": "http://sikessem.com"
+        "name": "Sigui Kessé Emmanuel",
+        "email": "siguici@proton.me",
+        "url": "https://ske.deno.dev"
     }
 }

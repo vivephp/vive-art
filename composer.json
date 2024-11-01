@@ -1,14 +1,14 @@
 {
     "name": "siguici/art",
-    "description": "🎨 Artwork by Vive.",
-    "keywords": ["artwork", "vive"],
+    "description": "🎨 Artwork by Sigui Kessé Emmanuel.",
+    "keywords": ["art", "artwork", "sigui", "siguici", "ske", "ske-ci"],
     "license": "CC-BY-SA-3.0",
     "homepage": "https://packagist.org/packages/siguici",
     "authors": [
         {
             "name": "Sigui Kessé Emmanuel",
-            "email": "contact@sigui.ci",
-            "homepage": "http://sigui.ci",
+            "email": "siguici@proton.me",
+            "homepage": "http://ske.deno.dev",
             "role": "Developer"
         }
     ]
